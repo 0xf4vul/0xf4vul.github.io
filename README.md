@@ -1,2 +1,2 @@
-# 0xf4vul.github.io
-Note/Thinking
+# 没太多计划
+笔记、思考
